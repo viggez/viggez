@@ -6,8 +6,8 @@ My projects are kept private and therefore cannot be shown at this page.
 
 ### 🔒 Private Repositories
 
-- **RuleGuard-LLM** - Private repository
-- **SoftwareEng** - Private repository
+- **RuleGuard-LLM** - This was my thesis in AI / Computer Science where me and my classmate developed a framework to ensure security rules in LLMs.
+- **Software Engineering Course** - This was a group project in my final year where we developed a smart home with cool hardware features.
 
 <!--
 **viggez/viggez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
