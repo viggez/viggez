@@ -2,7 +2,12 @@
 
 Here I have collected some of my work.
 
-My projects are kept secret and therefore cannot be shown at this page.
+My projects are kept private and therefore cannot be shown at this page.
+
+### 🔒 Private Repositories
+
+- **RuleGuard-LLM** - Private repository
+- **SoftwareEng** - Private repository
 
 <!--
 **viggez/viggez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
