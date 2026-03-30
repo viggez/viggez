@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# Here I have collected my projects and some of my schoolwork.
+
 <!--
 **viggez/viggez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
