@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Here I have collected my projects and some of my schoolwork.
+Here I have collected some of my work.
+
+My projects are kept secret and therefore cannot be shown at this page.
 
 <!--
 **viggez/viggez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
